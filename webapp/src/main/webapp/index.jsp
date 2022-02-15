@@ -6,6 +6,8 @@
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+     <label for="surName"><b>Enter Name</b></label>
+    <input type="text" placeholder="sur name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
